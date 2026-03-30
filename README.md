@@ -1,6 +1,18 @@
-<img src="visuals/1.png" 
+<img src="images/1.png" 
      width="280" 
      style="border-radius:10px; transform: rotate(90deg); display:block; margin:auto;">
+<img src="images/2.png" 
+     width="280" 
+     style="border-radius:10px; transform: rotate(90deg); display:block; margin:auto;">     
+<img src="images/3.png" 
+     width="280" 
+     style="border-radius:10px; transform: rotate(90deg); display:block; margin:auto;">     
+<img src="images/4.png" 
+     width="280" 
+     style="border-radius:10px; transform: rotate(90deg); display:block; margin:auto;">  
+<img src="images/5.png" 
+     width="280" 
+     style="border-radius:10px; transform: rotate(90deg); display:block; margin:auto;">     
 
 # 🏦 ATM Management System (Python + MySQL)
 
