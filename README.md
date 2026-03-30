@@ -1,3 +1,7 @@
+<img src="visuals/1.png" 
+     width="280" 
+     style="border-radius:10px; transform: rotate(90deg); display:block; margin:auto;">
+
 # 🏦 ATM Management System (Python + MySQL)
 
 A **console-based ATM Management System** developed using **Python** and **MySQL**.  
